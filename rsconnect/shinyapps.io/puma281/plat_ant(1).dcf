@@ -1,0 +1,13 @@
+name: plat_ant
+title: plat_ant
+username:
+account: puma281
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3354721
+bundleId: 3944842
+url: https://puma281.shinyapps.io/plat_ant/
+when: 1607115082.74229
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 0|extt.R|www/imgop_1.png

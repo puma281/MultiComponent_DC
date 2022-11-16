@@ -1,0 +1,13 @@
+name: plat_ant
+title: plat_ant
+username:
+account: puma281
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3354721
+bundleId: 6518769
+url: https://puma281.shinyapps.io/plat_ant/
+when: 1668565620.72925
+lastSyncTime: 1668565620.72927
+asMultiple: FALSE
+asStatic: FALSE
